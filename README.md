@@ -1,4 +1,5 @@
 🚀 FoodSprint（快餐達人）— 智慧食品外送平台
+![alt text](image.png)
 
 📌 介紹  
 FoodSprint 是一款 多角色、多功能 的食品外送平台，覆蓋 用戶點餐、餐廳接單、外送配送 等完整流程。  
@@ -56,5 +57,3 @@ FoodSprint 是一款 多角色、多功能 的食品外送平台，覆蓋 用戶
 - CI/CD（GitHub Actions）（自動化部署）
 
 ---
-
-![alt text](image.png)
